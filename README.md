@@ -7,7 +7,7 @@ About the Project
 
 The major goal of this project is to create a machine learning model that can predict a patient having diabetes or not. The model will use some diagnostic measures in the data. The data sample is for pregnant women patients that can’t be shared due to data provider's request.
 
-•	Data Dictionary
+	Data Dictionary
 
 •	Class	 :  Binary class (has diabetic or not)
 
@@ -21,7 +21,7 @@ The major goal of this project is to create a machine learning model that can pr
 
 •	FBS	   :	(Fasting blood sugar test) a blood sugar level based on blood sample that will be taken after an overnight fast.
 
-•	BMI	   :	Body mass index: weight in kg/(height in m)^2
+•	BMI	   :	Body mass index: weight in kg/height 
 
 •	HBA1C	 :	Hemoglobin level
 
