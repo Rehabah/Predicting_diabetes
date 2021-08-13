@@ -7,7 +7,7 @@ About the Project
 
 The major goal of this project is to create a machine learning model that can predict a patient having diabetes or not. The model will use some diagnostic measures in the data. The data sample is for pregnant women patients that can’t be shared due to data provider's request.
 
-	Data Dictionary
+Data Dictionary
 
 •	Class	 :  Binary class (has diabetic or not)
 
