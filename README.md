@@ -1,11 +1,11 @@
 # Predicting_diabetes
-Machine learning model that can predict a patient (pregnant women ) having diabetes or not.
+Machine learning models that can predict a patient (pregnant women ) having diabetes or not.
 
 About the Project
 
 •	Goals
 
-The major goal of this project is to create a machine learning model that can predict a patient having diabetes or not. The model will use some diagnostic measures in the data. The data sample is for pregnant women patients that can’t be shared due to data provider request.
+The major goal of this project is to create a machine learning model that can predict a patient having diabetes or not. The model will use some diagnostic measures in the data. The data sample is for pregnant women patients that can’t be shared due to data provider's request.
 
 •	Data Dictionary
 
